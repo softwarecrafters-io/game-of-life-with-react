@@ -14,7 +14,7 @@ This project is an implementation of John Conway's famous "Game of Life" using R
 
 1. Clone this repository:
    ```
-   git clone [REPOSITORY_URL]
+   git clone git@github.com:softwarecrafters-io/game-of-life-with-react.git
    ```
 
 2. Navigate to the project directory:
